@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Puri Goswami</h1>
+<h1 align="center">Hi 👋, I'm Rishabh Puri Goswami</h1> 
 <h3 align="center">🌍 Passionate educator | MCA Postgraduate | UGC NET Qualified | GATE Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhgoswami0&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhgoswami0" /> </p>
